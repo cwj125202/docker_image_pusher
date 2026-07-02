@@ -1,4 +1,4 @@
-redis:6.2.22
+#redis:6.2.22
 
 #支持指定架构 
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 redis:6.2.22
