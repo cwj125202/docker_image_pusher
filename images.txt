@@ -1,4 +1,4 @@
-#redis:6.2.22
+ghcr.io/iflytek/skillhub-scanner:latest
 
 #支持指定架构 
---platform=linux/arm64 mysql:8.0.46
+#--platform=linux/arm64 mysql:8.0.46
